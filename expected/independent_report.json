@@ -1,0 +1,156 @@
+{
+  "method": "Sturm root counts and trace equations for powers 0,1,2,3,5",
+  "counts": {
+    "order_bound": 5778,
+    "sturm_threshold": 1665,
+    "passed": 3,
+    "inconsistent_traces": 1657,
+    "invalid_multiplicities": 5
+  },
+  "survivors": [
+    [
+      2,
+      1,
+      1,
+      7
+    ],
+    [
+      4,
+      1,
+      2,
+      35
+    ],
+    [
+      7,
+      2,
+      3,
+      64
+    ]
+  ],
+  "trace_candidates": [
+    {
+      "k": 2,
+      "mu": 1,
+      "c": 1,
+      "n": 7,
+      "factors": [
+        "x**3 + x**2 - 2*x - 1"
+      ],
+      "multiplicities": [
+        "2"
+      ]
+    },
+    {
+      "k": 4,
+      "mu": 1,
+      "c": 2,
+      "n": 35,
+      "factors": [
+        "x - 2",
+        "x + 1",
+        "x + 3"
+      ],
+      "multiplicities": [
+        "14",
+        "14",
+        "6"
+      ]
+    },
+    {
+      "k": 7,
+      "mu": 2,
+      "c": 3,
+      "n": 64,
+      "factors": [
+        "x - 3",
+        "x + 1",
+        "x + 5"
+      ],
+      "multiplicities": [
+        "21",
+        "35",
+        "7"
+      ]
+    },
+    {
+      "k": 11,
+      "mu": 5,
+      "c": 6,
+      "n": 56,
+      "factors": [
+        "x - 4",
+        "x + 1",
+        "x + 9"
+      ],
+      "multiplicities": [
+        "176/13",
+        "77/2",
+        "77/26"
+      ]
+    },
+    {
+      "k": 16,
+      "mu": 5,
+      "c": 6,
+      "n": 153,
+      "factors": [
+        "x - 6",
+        "x + 1",
+        "x + 11"
+      ],
+      "multiplicities": [
+        "216/7",
+        "792/7",
+        "8"
+      ]
+    },
+    {
+      "k": 22,
+      "mu": 6,
+      "c": 7,
+      "n": 276,
+      "factors": [
+        "x - 8",
+        "x + 1",
+        "x + 14"
+      ],
+      "multiplicities": [
+        "46",
+        "2816/13",
+        "161/13"
+      ]
+    },
+    {
+      "k": 40,
+      "mu": 12,
+      "c": 13,
+      "n": 451,
+      "factors": [
+        "x - 14",
+        "x + 1",
+        "x + 26"
+      ],
+      "multiplicities": [
+        "451/10",
+        "9856/25",
+        "533/50"
+      ]
+    },
+    {
+      "k": 79,
+      "mu": 39,
+      "c": 40,
+      "n": 396,
+      "factors": [
+        "x - 25",
+        "x + 1",
+        "x + 64"
+      ],
+      "multiplicities": [
+        "1738/89",
+        "2607/7",
+        "1896/623"
+      ]
+    }
+  ]
+}

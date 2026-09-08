@@ -1,0 +1,203 @@
+{
+  "arithmetic": "integers and fractions only",
+  "dependencies": [],
+  "main_certificate": {
+    "threshold": "1/36",
+    "maximum_valency": 182,
+    "counts": {
+      "parameter_triples": 1004731,
+      "integer_layers": 21834,
+      "order_bound": 5778,
+      "spectral_threshold": 1665,
+      "passed": 3,
+      "nonconstant_conjugate_multiplicity": 1531,
+      "noninteger_multiplicity": 130,
+      "multiplicity_below_valency": 1
+    },
+    "survivors": [
+      {
+        "k": 2,
+        "mu": 1,
+        "c": 1,
+        "n": 7,
+        "layers": [
+          1,
+          2,
+          2,
+          2
+        ],
+        "factors": [
+          {
+            "factor": [
+              -1,
+              -2,
+              1,
+              1
+            ],
+            "multiplicity": 2
+          }
+        ]
+      },
+      {
+        "k": 4,
+        "mu": 1,
+        "c": 2,
+        "n": 35,
+        "layers": [
+          1,
+          4,
+          12,
+          18
+        ],
+        "factors": [
+          {
+            "factor": [
+              3,
+              1
+            ],
+            "multiplicity": 6
+          },
+          {
+            "factor": [
+              -2,
+              1
+            ],
+            "multiplicity": 14
+          },
+          {
+            "factor": [
+              1,
+              1
+            ],
+            "multiplicity": 14
+          }
+        ]
+      },
+      {
+        "k": 7,
+        "mu": 2,
+        "c": 3,
+        "n": 64,
+        "layers": [
+          1,
+          7,
+          21,
+          35
+        ],
+        "factors": [
+          {
+            "factor": [
+              5,
+              1
+            ],
+            "multiplicity": 7
+          },
+          {
+            "factor": [
+              -3,
+              1
+            ],
+            "multiplicity": 21
+          },
+          {
+            "factor": [
+              1,
+              1
+            ],
+            "multiplicity": 35
+          }
+        ]
+      }
+    ]
+  },
+  "focused_certificate": {
+    "threshold": "1/35",
+    "maximum_valency": 165,
+    "counts": {
+      "parameter_triples": 748660,
+      "integer_layers": 18551,
+      "order_bound": 4983,
+      "spectral_threshold": 1323,
+      "nonconstant_conjugate_multiplicity": 1205,
+      "passed": 2,
+      "noninteger_multiplicity": 115,
+      "multiplicity_below_valency": 1
+    },
+    "survivors": [
+      {
+        "k": 4,
+        "mu": 1,
+        "c": 2,
+        "n": 35,
+        "layers": [
+          1,
+          4,
+          12,
+          18
+        ],
+        "factors": [
+          {
+            "factor": [
+              3,
+              1
+            ],
+            "multiplicity": 6
+          },
+          {
+            "factor": [
+              -2,
+              1
+            ],
+            "multiplicity": 14
+          },
+          {
+            "factor": [
+              1,
+              1
+            ],
+            "multiplicity": 14
+          }
+        ]
+      },
+      {
+        "k": 7,
+        "mu": 2,
+        "c": 3,
+        "n": 64,
+        "layers": [
+          1,
+          7,
+          21,
+          35
+        ],
+        "factors": [
+          {
+            "factor": [
+              5,
+              1
+            ],
+            "multiplicity": 7
+          },
+          {
+            "factor": [
+              -3,
+              1
+            ],
+            "multiplicity": 21
+          },
+          {
+            "factor": [
+              1,
+              1
+            ],
+            "multiplicity": 35
+          }
+        ]
+      }
+    ]
+  },
+  "auxiliary_checks": {
+    "C7_polynomial_at_minus_65_over_36": "-701/46656",
+    "C7_polynomial_at_minus_9_over_5": "1/125"
+  }
+}

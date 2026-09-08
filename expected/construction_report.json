@@ -1,0 +1,167 @@
+[
+  {
+    "name": "C7",
+    "n": 7,
+    "valency": 2,
+    "diameter": 3,
+    "odd_girth": 7,
+    "intersection_checks": {
+      "layers": [
+        1,
+        2,
+        2,
+        2
+      ],
+      "c_a_b": [
+        [
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    },
+    "traces_0_to_7": [
+      7,
+      0,
+      14,
+      0,
+      42,
+      0,
+      140,
+      14
+    ],
+    "annihilating_polynomial": [
+      2,
+      3,
+      -4,
+      -1,
+      1
+    ],
+    "polynomial_of_adjacency_is_zero": true
+  },
+  {
+    "name": "O4 = KG(7,3)",
+    "n": 35,
+    "valency": 4,
+    "diameter": 3,
+    "odd_girth": 7,
+    "intersection_checks": {
+      "layers": [
+        1,
+        4,
+        12,
+        18
+      ],
+      "c_a_b": [
+        [
+          0,
+          0,
+          4
+        ],
+        [
+          1,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    },
+    "traces_0_to_7": [
+      35,
+      0,
+      140,
+      0,
+      980,
+      0,
+      9380,
+      5040
+    ],
+    "annihilating_polynomial": [
+      24,
+      14,
+      -13,
+      -2,
+      1
+    ],
+    "polynomial_of_adjacency_is_zero": true
+  },
+  {
+    "name": "Folded 7-cube",
+    "n": 64,
+    "valency": 7,
+    "diameter": 3,
+    "odd_girth": 7,
+    "intersection_checks": {
+      "layers": [
+        1,
+        7,
+        21,
+        35
+      ],
+      "c_a_b": [
+        [
+          0,
+          0,
+          7
+        ],
+        [
+          1,
+          0,
+          6
+        ],
+        [
+          2,
+          0,
+          5
+        ],
+        [
+          3,
+          4,
+          0
+        ]
+      ]
+    },
+    "traces_0_to_7": [
+      64,
+      0,
+      448,
+      0,
+      8512,
+      0,
+      242368,
+      322560
+    ],
+    "annihilating_polynomial": [
+      105,
+      76,
+      -34,
+      -4,
+      1
+    ],
+    "polynomial_of_adjacency_is_zero": true
+  }
+]
