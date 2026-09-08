@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+/verification_report.json
+/candidate_audit.csv
+/construction_report.json
+/independent_report.json
+/run_summary.json

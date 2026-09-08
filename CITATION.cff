@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use these computational certificates, please cite this software and the accompanying manuscript."
+title: "Exact certificates for spectral bipartiteness in generalized odd graphs of diameter three"
+type: software
+authors:
+  - family-names: Zhou
+    given-names: Qi
+version: 1.0.0
+repository-code: "https://github.com/zhouqi-math/generalized-odd-graph-spectral-extrema"
+keywords:
+  - spectral graph theory
+  - distance-regular graphs
+  - exact arithmetic
+  - reproducibility
